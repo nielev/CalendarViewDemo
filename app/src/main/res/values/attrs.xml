@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="cell_hight" format="dimension"/>
+        <attr name="cell_width" format="dimension"/>
+        <attr name="cell_padding" format="dimension"/>
+        <attr name="cell_padding_left" format="dimension"/>
+        <attr name="cell_padding_top" format="dimension"/>
+        <attr name="cell_padding_right" format="dimension"/>
+        <attr name="cell_padding_bottom" format="dimension"/>
+    </declare-styleable>
+</resources>
